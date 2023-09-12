@@ -1,0 +1,11 @@
+{
+    "frequency": 1000,
+    "forecast_days": 5,
+    "cities": [
+      "Ufa",
+      "Petersburg",
+      "Saratov",
+      "Dubai",
+      "London"
+    ]
+  }

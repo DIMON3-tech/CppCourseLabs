@@ -1,0 +1,1 @@
+add_library(number ../src/buffer.cpp buffer.h buffer_ext.h)
